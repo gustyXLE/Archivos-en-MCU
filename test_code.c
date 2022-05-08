@@ -10,6 +10,7 @@
 
 int main(){
 	printf("Probando GitHub!\n");
+	printf("Nueva linea")
 	getch();
 	return 0;
 }
